@@ -1590,6 +1590,8 @@ ul ul, ol ul, ul ol, ol ol {
   padding-left: 0;
   margin-left: -5px;
   list-style: none;
+  height: 39px;
+  margin-top: -29px;
 }
 
 .list-inline > li {
