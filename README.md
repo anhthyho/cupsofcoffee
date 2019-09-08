@@ -2,19 +2,15 @@
 Finding cafes and coffee shops using zip code/city
 
 What are we using? 
-
 Bootstrap, HTML, CSS
 
 So what are we making today?
-
 A website that can display coffee shops/cafes within a specified radius (default 10 miles) using Yelp and Google Maps APIs. 
 
 What we have now:
-
 Forward facing home page with layout complete
 
 What are we working on:
-
 Implement Yelp API 
 Sort features
 Integration with different devices 
