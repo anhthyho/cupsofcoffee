@@ -1,13 +1,13 @@
 # cupsofcoffee
 Finding cafes and coffee shops using zip code/city
 
-What are we using?
+What are we using? /n
 Bootstrap, HTML, CSS
 
-So what are we making today?
+So what are we making today? /n
 A website that can display coffee shops/cafes within a specified radius (default 10 miles) using Yelp and Google Maps APIs. 
 
-What we have now:
+What we have now: /n
 Forward facing home page with layout complete
 
 What are we working on:
